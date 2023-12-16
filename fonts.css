@@ -1,28 +1,4 @@
 @font-face {
-   font-family: "Bookman Old Style";
-   src: url("fonts/Bookman Old Style.woff") format("woff"), url("fonts/Bookman Old Style.eot") format("embedded-opentype"), url("fonts/Bookman Old Style.TTF") format("truetype"), url("fonts/Bookman Old Style.svg") format("svg");
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Bookman Old Style";
-   src: url("fonts/Bookman Old Style Bold.woff") format("woff"), url("fonts/Bookman Old Style Bold.eot") format("embedded-opentype"), url("fonts/Bookman Old Style Bold.TTF") format("truetype"), url("fonts/Bookman Old Style Bold.svg") format("svg");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Bookman Old Style";
-   src: url("fonts/Bookman Old Style Bold Italic.woff") format("woff"), url("fonts/Bookman Old Style Bold Italic.eot") format("embedded-opentype"), url("fonts/Bookman Old Style Bold Italic.TTF") format("truetype"), url("fonts/Bookman Old Style Bold Italic.svg") format("svg");
-   font-weight: bold;
-   font-style: italic;
-}
-@font-face {
-   font-family: "Bookman Old Style";
-   src: url("fonts/Bookman Old Style Italic.woff") format("woff"), url("fonts/Bookman Old Style Italic.eot") format("embedded-opentype"), url("fonts/Bookman Old Style Italic.TTF") format("truetype"), url("fonts/Bookman Old Style Italic.svg") format("svg");
-   font-weight: normal;
-   font-style: italic;
-}
-@font-face {
    font-family: "Dubai Medium";
    src: url("fonts/Dubai Medium.woff") format("woff"), url("fonts/Dubai Medium.eot") format("embedded-opentype"), url("fonts/Dubai Medium.TTF") format("truetype"), url("fonts/Dubai Medium.svg") format("svg");
    font-weight: normal;
