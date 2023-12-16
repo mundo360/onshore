@@ -1,0 +1,150 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_F77CCDFC_EFC5_9F9B_418D_1BB0B5FC0416.source = http://www.pousadaonshore.com.br
+LinkBehaviour_6BC2EEF0_72A2_CB58_41B4_5B88DED90F8A.source = http://www.pousadaonshore.com.br
+LinkBehaviour_DDA080C0_ED6C_7AFD_41D4_043938139A2C.source = https://clinvet.flyvet.com.br/
+LinkBehaviour_C153AD67_ED64_6B83_41DE_14395127EBF0.source = https://wa.me/5522998001046
+LinkBehaviour_682570B6_72A2_B7D8_41D8_C91A79F84F97.source = https://wa.me/5522998001046
+LinkBehaviour_F6C84175_EFDD_A494_41D0_468D9CDE11AC.source = https://wa.me/5522998001046
+LinkBehaviour_62B47631_7267_BAD8_41D2_1F37E599B614.source = https://wa.me/5522998001046
+LinkBehaviour_DFB29045_ED1C_9984_41EC_3ED3F2144F11.source = https://wa.me/5561986275088
+WebFrame_DC6B1CCF_ED1B_AA84_41E3_3752266472DC.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.825913952486!2d-42.0402569250451!3d-22.91979103833517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x971bab20e74dbf%3A0xda4089a21016a7d8!2sPousada%20On%20Shore!5e0!3m2!1spt-BR!2sbr!4v1702727897209!5m2!1spt-BR!2sbr
+WebFrame_C0439AF2_ED64_AE9C_41E8_A5A1803AF866.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.825913952486!2d-42.0402569250451!3d-22.91979103833517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x971bab20e74dbf%3A0xda4089a21016a7d8!2sPousada%20On%20Shore!5e0!3m2!1spt-BR!2sbr!4v1702727897209!5m2!1spt-BR!2sbr
+LinkBehaviour_F6D62D5F_EFC6_FC94_41DC_59C7C2F06E1F.source = https://www.instagram.com/clinvetbsb/
+LinkBehaviour_6B19C8AA_72BE_57C8_41AC_F141A91AF24E.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_F9E9EA00_EF43_A46C_41A4_E5B753A4F3B8.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_6B19D8AA_72BE_57C8_41D4_BB444643E967.source = https://www.instagram.com/pousadaonshore/
+LinkBehaviour_F76B3070_EFBF_E4AC_41C3_4F2750C45A83.source = https://www.instagram.com/pousadaonshore/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_613FAC0C_7228_701E_41C8_551B1192DF46.text = Banheiro
+HotspotPanoramaOverlayTextImage_66236F80_7227_F005_41CA_2CB132F16462.text = Banheiro
+
+## Media
+
+### Audio
+audiores_7313AC59_6A64_210D_41D6_59F87B32204D.mp3Url = media/audio_70C03AE7_6A64_2105_41B6_40021D448D1E_pt.mp3
+audiores_73D6D78B_6A64_EF0E_41B0_70129065C238.mp3Url = media/audio_70E91FA6_6A64_5F06_41BC_37AE36C1E7E6_pt.mp3
+
+### Image
+imlevel_6FA951F2_7278_7005_41D8_50AAC35DB0B4.url = media/panorama_6484B483_6A2F_E1FE_41D4_6053AE0D84E7_HS_2tloo985_pt.png
+imlevel_6FA8F216_7278_700D_41D2_D4A5244310A9.url = media/panorama_6487D239_6A2C_210D_4172_B0AFC5008A77_HS_r4yjwewb_pt.png
+
+### Title
+panorama_6487E55A_6A2C_630F_41D5_F2295827CF5C.label = Acesso Café
+panorama_6484B483_6A2F_E1FE_41D4_6053AE0D84E7.label = Acesso Suite master
+panorama_648791BC_6A2C_630B_41D3_489FCA6FEFDE.label = Acesso Suite standard
+panorama_6487BA45_6A2C_217A_41D4_0BC92F89D65B.label = Acesso jardim
+panorama_65A92685_6A2C_6105_41B8_6EAD30AE844D.label = Banheiro
+panorama_64873601_6A2D_E0FD_41D9_46C67180C599.label = Entrada
+panorama_648746F6_6A2C_2107_41DA_82209B36A9BF.label = Entrada recepcao
+panorama_648733B3_6A2C_271D_41D3_2AE49F061A70.label = Escada
+panorama_7EC51A29_6A24_210A_41A8_4E58670CEC63.label = Fachada
+panorama_64848D4B_6A2D_E30D_41D4_B607F1262295.label = Frente
+panorama_6487DD41_6A2C_637D_41B0_CB7C006DBF3B.label = Jardim
+panorama_6487B55A_6A2F_E30F_41C5_366B3B58A3A4.label = Meio-escada
+panorama_6696C323_7227_B00B_41AD_C96383D5B070.label = Praia
+panorama_6484C5B2_6A2C_231F_41CC_CF14FFC1446F.label = Recepção
+panorama_6485094E_6A2C_2307_4192_F66875D627B9.label = Suite Master
+panorama_6487D239_6A2C_210D_4172_B0AFC5008A77.label = Suite Master
+panorama_64842735_6A2C_EF05_41C0_98B1278D9EB1.label = Suite Standard
+panorama_6484F814_6A2C_211B_41D9_02E79F111B0D.label = Suite standard
+panorama_6487C095_6A2C_2105_41CF_AF2E5F4A8B13.label = Varanda
+panorama_6487DD83_6A2C_23FD_41BF_A349ECA9A450.label = cafe
+video_7D7D1E66_6A24_2106_41BB_E62D4AEE5A86.label = com narração final
+
+### Video
+videolevel_6E53DA71_72A2_4B58_41B9_EC5ADC139D89.posterURL = media/video_7D7D1E66_6A24_2106_41BB_E62D4AEE5A86_poster_pt.jpg
+videolevel_6E53DA71_72A2_4B58_41B9_EC5ADC139D89.url = media/video_7D7D1E66_6A24_2106_41BB_E62D4AEE5A86_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_DFB28045_ED1C_9984_41ED_7A0508C1E73A.label = Agendar consulta
+Button_C154DD67_ED64_6B83_41D0_62FA53DC4620.label = Realizar Reserva
+Button_62B5262F_7267_BAC9_41CA_2742C281065D.label = Realizar Reserva
+Button_DDA0E0C0_ED6C_7AFD_41B7_455F5624CCC4.label = Visitar SITE
+
+### Dropdown
+DropDown_F5F03700_EE88_EF2E_41DD_43FF4FD3082C.label = Lista de Ambientes
+
+### Image
+Image_61B8335C_7262_5948_41C6_9522252746C8.url = skin/Image_61B8335C_7262_5948_41C6_9522252746C8_pt.png
+Image_639C5CC0_727E_4FB8_41CB_BB282074552A.url = skin/Image_639C5CC0_727E_4FB8_41CB_BB282074552A_pt.png
+Image_6825E0B6_72A2_B7D8_41C1_B20CA44366B2.url = skin/Image_6825E0B6_72A2_B7D8_41C1_B20CA44366B2_pt.png
+Image_6B1A88AA_72BE_57C8_41A6_387366BCC4C3.url = skin/Image_6B1A88AA_72BE_57C8_41A6_387366BCC4C3_pt.png
+Image_6BC17EEF_72A2_CB48_41AA_5AA98EDF749E.url = skin/Image_6BC17EEF_72A2_CB48_41AA_5AA98EDF749E_pt.png
+Image_C1543D67_ED64_6B83_41C1_75E2D734CA97.url = skin/Image_C1543D67_ED64_6B83_41C1_75E2D734CA97_pt.png
+Image_DDAF40C0_ED6C_7AFD_41E5_A4968D9162C4.url = skin/Image_DDAF40C0_ED6C_7AFD_41E5_A4968D9162C4_pt.jpg
+Image_F6C4816E_EFDD_A4B4_41E9_28D0D5896D96.url = skin/Image_F6C4816E_EFDD_A4B4_41E9_28D0D5896D96_pt.png
+Image_F6D7CD5D_EFC6_FC94_41EB_B9063B1A9D43.url = skin/Image_F6D7CD5D_EFC6_FC94_41EB_B9063B1A9D43_pt.png
+Image_F9EA09FF_EF43_A794_41CE_213C651AFBBA.url = skin/Image_F9EA09FF_EF43_A794_41CE_213C651AFBBA_pt.png
+Image_FB67D385_EE98_2737_41ED_B3B4019AB3F4.url = skin/Image_FB67D385_EE98_2737_41ED_B3B4019AB3F4_pt.png
+Image_FDD46DB3_EE8B_E352_41C7_07D0B03C3424.url = skin/Image_FDD46DB3_EE8B_E352_41C7_07D0B03C3424_pt.png
+Image_FDD49DB3_EE8B_E352_41E0_43542838CEE1.url = skin/Image_FDD49DB3_EE8B_E352_41E0_43542838CEE1_pt.png
+
+### Label
+Label_F9EAF9FF_EF43_A794_41BB_4991431EAA08.text = @POUSADAONSHORE
+Label_6B1928AA_72BE_57C8_41D9_F0E77E088DA7.text = @POUSADAONSHORE
+Label_6BC16EF0_72A2_CB58_41D3_4255265837AA.text = Abrir site principal  ?
+Label_F7618DF5_EFC5_9F95_41D6_92785F87A66A.text = Abrir site principal  ?
+Label_6B1978AA_72BE_57C8_41D6_20BDBA4E3CFE.text = Deseja ir ao instagram ?
+Label_F9EA19FF_EF43_A794_41E5_103AB330CBA9.text = Deseja ir ao instagram ?
+Label_F6D7BD5D_EFC6_FC94_41E3_1FB584CB20A7.text = Fazer avaliação no Google ?
+Label_6BC2AEF0_72A2_CB58_41C2_15BF14CC5F8E.text = NÃO
+Label_F77EADFD_EFC5_9F95_41B4_0B616A56C3CC.text = NÃO
+Label_682530B6_72A2_B7D8_41C7_5B6EE9452737.text = NÃO
+Label_F6CAE176_EFDD_A494_41D9_BCC548068694.text = NÃO
+Label_F6D1CD5F_EFC6_FC94_41E2_E9C799ACE121.text = NÃO
+Label_F7BECF4E_EF46_9CF4_41DC_AE77D5F8CB85.text = NÃO
+Label_6B1948AA_72BE_57C8_41C2_A9F58B454E2D.text = NÃO
+Label_F247313E_EE98_2352_41EB_DB9B6163344A.text = On Shore
+Label_6825F0B6_72A2_B7D8_41DA_1C5C16D82EE0.text = Realizar contato Whatsapp?
+Label_F6C5016E_EFDD_A4B4_41DC_CCA63E664A68.text = Realizar contato Whatsapp?
+Label_682500B6_72A2_B7D8_41C9_BFF511C51672.text = SIM
+Label_F6C5816E_EFDD_A4B4_41A8_52FA77FCB7FA.text = SIM
+Label_F6D76D5E_EFC6_FC94_41B5_FE5B0A70381D.text = SIM
+Label_6B1968AA_72BE_57C8_41C9_AE6CD6D9F0C9.text = SIM
+Label_6BC15EF0_72A2_CB58_417C_309B530853BE.text = SIM
+Label_F77E0DFA_EFC5_9F9F_41BB_4F64CB90DE60.text = SIM
+Label_F9EAE9FF_EF43_A794_41D6_40FADE994324.text = SIM
+
+### Multiline Text
+HTMLText_E054DC61_EF42_FCAD_41E7_39DB152FC51E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffff00;font-size:16px;font-family:'Dubai Medium';"><B>{{TITLE}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_DDAF00C0_ED6C_7AFD_41EA_CE45FBD3AEEA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.209840810419681vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.21vh;font-family:'Bebas Neue Bold';">Nossos Serviços</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.480000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;font-family:'Bebas Neue Bold';">Clique no botão abaixo e tenha mais detalhes sobre nossos serviços no site principal</SPAN></SPAN></DIV></div>
+HTMLText_DFB2B045_ED1C_9984_41D7_4167007173E5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.625000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.63vh;font-family:'Bookman Old Style', serif;">Clinvet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.65625vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.66vh;font-family:'Bookman Old Style', serif;"><B>Serviços</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vh;font-family:'Bookman Old Style', serif;">- Clínica Médica</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vh;font-family:'Bookman Old Style', serif;">- Vacinas</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vh;font-family:'Bookman Old Style', serif;">- Cirurgia</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vh;font-family:'Bookman Old Style', serif;">- Laboratório</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bookman Old Style', serif;"><B>localização: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.5vh;font-family:'Bookman Old Style', serif;">Quadra 8 Bloco 11 Lote 11 loja 1 - Sobradinho, Brasília - DF, 73005-511</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_DC6AFCCF_ED1B_AA84_41E2_86F2E4E9A672.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.5vh;font-family:'Bebas Neue Bold';"><B>Localização Pousada On Shore</B></SPAN></SPAN></DIV></div>
+HTMLText_7D2666D5_7266_5B58_41D9_967A3A241645.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>On Shore</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Pousada</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;"><B>Endereço:</B></SPAN><SPAN STYLE="color:#333333;font-size:13px;"> Rua das Papoulas, 20 - Foguete, </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Cabo Frio - RJ, 28908-540</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">EM FRENTE A UMA DAS PRAIAS MAIS PROCURADAS DA REGIÃO DOS LAGOS EM CABO FRIO.NOSSA POUSADA TRAZ O SOM DO MAR PARA SUA HOSPEDAGEM FICAR INESQUECÍVEL </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_62B5162F_7267_BAC9_41D4_2A056F4C02EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18.5px;"><B>On Shore</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;"><B>Pousada</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:10px;"><B>Endereço:</B></SPAN><SPAN STYLE="color:#333333;font-size:10px;"> Rua das Papoulas, 20 - Foguete, </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:10px;">Cabo Frio - RJ, 28908-540</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:9px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:9px;">EM FRENTE A UMA DAS PRAIAS MAIS PROCURADAS DA REGIÃO DOS LAGOS EM CABO FRIO.NOSSA POUSADA TRAZ O SOM DO MAR PARA SUA HOSPEDAGEM FICAR INESQUECÍVEL </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:10px;"><B>SUÍTE STANDARD </B></SPAN><SPAN STYLE="color:#333333;font-size:10px;">- CONTA COM UMA VISTA BELÍSSIMA DO JARDIM</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:10px;"><B>SUÍTE MASTER</B></SPAN><SPAN STYLE="color:#333333;font-size:10px;"> - CONTA COM UMA VISTA PRIVILEGIADA DA PRAIA DO FOGUETE </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+IconButton_E18A0FDB_ECED_A683_41E9_92B22D52C400_mobile.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_E18A0FDB_ECED_A683_41E9_92B22D52C400.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_E18A1FDB_ECED_A683_41E2_52BB0CE8BD51_mobile.toolTip = PANORAMA LIST
+IconButton_E18A1FDB_ECED_A683_41E2_52BB0CE8BD51.toolTip = PANORAMA LIST
+IconButton_E18A2FDB_ECED_A683_41E0_4CB559152755.toolTip = PHOTO ALBUM
+IconButton_E18A2FDB_ECED_A683_41E0_4CB559152755_mobile.toolTip = PHOTO ALBUM
+IconButton_F4E3CF3B_ED24_A783_41E6_1FC4EB0A79F5.toolTip = SHOW FLOORPLANS
+IconButton_E18A7FDC_ECED_A685_41B1_4C8CD206C44F.toolTip = SHOW FLOORPLANS
+IconButton_E18A6FDC_ECED_A685_41CE_92658F7F055A.toolTip = SHOW FLOORPLANS
+IconButton_E18A4FDB_ECED_A682_41E9_C3333E6BBA19.toolTip = SHOW FLOORPLANS
+IconButton_E18A5FDC_ECED_A685_41E7_CA527E2FFC16.toolTip = SHOW FLOORPLANS
+IconButton_F4E3CF3B_ED24_A783_41E6_1FC4EB0A79F5_mobile.toolTip = SHOW FLOORPLANS
+IconButton_E18A4FDB_ECED_A682_41E9_C3333E6BBA19_mobile.toolTip = SHOW FLOORPLANS
+IconButton_E18A5FDC_ECED_A685_41E7_CA527E2FFC16_mobile.toolTip = SHOW FLOORPLANS
+IconButton_E18A6FDC_ECED_A685_41CE_92658F7F055A_mobile.toolTip = SHOW FLOORPLANS
+IconButton_E18A7FDC_ECED_A685_41B1_4C8CD206C44F_mobile.toolTip = SHOW FLOORPLANS
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Pousada On Shore
